@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754291337012",
+    "project_id": "stupoll-e97d0",
+    "storage_bucket": "stupoll-e97d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754291337012:android:50cf72038686a74ddd2761",
+        "android_client_info": {
+          "package_name": "com.stupoll.stupoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754291337012-pic0tt7h22p001ulrsb12n480tqkpfj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_A8hYr2QbXo7niofhXXWWMYM21Dz_hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754291337012-pic0tt7h22p001ulrsb12n480tqkpfj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
